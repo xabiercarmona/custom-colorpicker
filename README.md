@@ -19,7 +19,7 @@ repositories {
 ```
 Add the library dependency to the application build.gradle:
 ```gradle
-implementation 'com.github.xabiercarmona:custom-colorpicker:1.0.0'
+implementation 'com.github.xabiercarmona:custom-colorpicker:1.0.1'
 ```
 
 ## Developer
