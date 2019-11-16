@@ -35,6 +35,6 @@ public class MainActivity extends AppCompatActivity {
                 0,
                 5,
                 ColorPickerDialog.SIZE_SMALL);
-        colorcalendar.show(getFragmentManager(), "cal");
+        colorcalendar.show(getSupportFragmentManager(), "cal");
     }
 }
